@@ -1,8 +1,8 @@
 # GRAM - General RAM 
 
-| Date    | 2020-08-27                                    |
-|---------|-----------------------------------------------|
 | Version | 1.0                                           |
+|---------|-----------------------------------------------|
+| Date    | 2020-08-27                                    |
 | Authors | Gabryel Mason-Williams - Diamond Light Source |
 | Authors | Dave Bond - Diamond Light Source              |
 | Authors | Mark Basham - Rosalind Franklin Institute and  Diamond Light Source              |
